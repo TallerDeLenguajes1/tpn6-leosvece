@@ -1,0 +1,13 @@
+C:\taller y lenguaje\tp6\tpn6-leosvece\punto2\punto2\obj\Debug\netcoreapp3.1\punto2.csprojAssemblyReference.cache
+C:\taller y lenguaje\tp6\tpn6-leosvece\punto2\punto2\obj\Debug\netcoreapp3.1\punto2.csproj.CoreCompileInputs.cache
+C:\taller y lenguaje\tp6\tpn6-leosvece\punto2\punto2\obj\Debug\netcoreapp3.1\punto2.AssemblyInfoInputs.cache
+C:\taller y lenguaje\tp6\tpn6-leosvece\punto2\punto2\obj\Debug\netcoreapp3.1\punto2.AssemblyInfo.cs
+C:\taller y lenguaje\tp6\tpn6-leosvece\punto2\punto2\bin\Debug\netcoreapp3.1\punto2.exe
+C:\taller y lenguaje\tp6\tpn6-leosvece\punto2\punto2\bin\Debug\netcoreapp3.1\punto2.deps.json
+C:\taller y lenguaje\tp6\tpn6-leosvece\punto2\punto2\bin\Debug\netcoreapp3.1\punto2.runtimeconfig.json
+C:\taller y lenguaje\tp6\tpn6-leosvece\punto2\punto2\bin\Debug\netcoreapp3.1\punto2.runtimeconfig.dev.json
+C:\taller y lenguaje\tp6\tpn6-leosvece\punto2\punto2\bin\Debug\netcoreapp3.1\punto2.dll
+C:\taller y lenguaje\tp6\tpn6-leosvece\punto2\punto2\bin\Debug\netcoreapp3.1\punto2.pdb
+C:\taller y lenguaje\tp6\tpn6-leosvece\punto2\punto2\obj\Debug\netcoreapp3.1\punto2.dll
+C:\taller y lenguaje\tp6\tpn6-leosvece\punto2\punto2\obj\Debug\netcoreapp3.1\punto2.pdb
+C:\taller y lenguaje\tp6\tpn6-leosvece\punto2\punto2\obj\Debug\netcoreapp3.1\punto2.genruntimeconfig.cache
